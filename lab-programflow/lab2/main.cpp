@@ -7,6 +7,8 @@ using namespace std;
 int main()
 {
     helloFunction();
+    helloFunction(2);
+
 
     return 0;
 }
